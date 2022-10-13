@@ -1,1 +1,1 @@
-# c_zadaci
+# Zadaci u programskom jeziku C
